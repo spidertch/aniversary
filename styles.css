@@ -80,3 +80,9 @@ button:hover {
     color: white;
     transform: rotateY(180deg);
 }
+
+/* Animación de giro */
+.card.flipped {
+    transform: rotateY(180deg);
+}
+
